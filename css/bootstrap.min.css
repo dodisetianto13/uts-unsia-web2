@@ -1,0 +1,5 @@
+footer {
+    position: relative;
+    margin-top: 20px; /* Atur jarak antara footer dan pilihan halaman */
+    clear: both;
+}
